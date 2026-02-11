@@ -427,6 +427,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: DoorModel_20260210
       objectReference: {fileID: 0}
+    - target: {fileID: 5092708244707826562, guid: ec161528897275f4d8c5dc97ff2b093f,
+        type: 3}
+      propertyPath: m_Name
+      value: Door_L
+      objectReference: {fileID: 0}
+    - target: {fileID: 8617835151230357669, guid: ec161528897275f4d8c5dc97ff2b093f,
+        type: 3}
+      propertyPath: m_Name
+      value: Door_R
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -910,7 +920,7 @@ Transform:
   m_GameObject: {fileID: 775649388}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.41735512, y: 0.65556484, z: -0.4784881}
+  m_LocalPosition: {x: -0.41735512, y: 0.65556484, z: 0.63}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1170,7 +1180,7 @@ Transform:
   m_GameObject: {fileID: 836821724}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0.19521864, w: 0.98075974}
-  m_LocalPosition: {x: -2.062, y: 1.938, z: 1.7930001}
+  m_LocalPosition: {x: -2.062, y: 1.938, z: 2.878}
   m_LocalScale: {x: 0.4150524, y: 0.1056018, z: 1.6915913}
   m_ConstrainProportionsScale: 0
   m_Children:
