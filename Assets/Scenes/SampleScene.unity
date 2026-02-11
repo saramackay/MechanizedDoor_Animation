@@ -422,6 +422,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2089597933872836226, guid: ec161528897275f4d8c5dc97ff2b093f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0046623945
+      objectReference: {fileID: 0}
+    - target: {fileID: -2089597933872836226, guid: ec161528897275f4d8c5dc97ff2b093f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2089597933872836226, guid: ec161528897275f4d8c5dc97ff2b093f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ec161528897275f4d8c5dc97ff2b093f,
         type: 3}
       propertyPath: m_Name
@@ -1215,7 +1230,7 @@ PlayableDirector:
   serializedVersion: 3
   m_PlayableAsset: {fileID: 11400000, guid: ac57a353147f2c445ad06643794debe6, type: 2}
   m_InitialState: 1
-  m_WrapMode: 2
+  m_WrapMode: 0
   m_DirectorUpdateMode: 1
   m_InitialTime: 0
   m_SceneBindings:
